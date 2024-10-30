@@ -1,4 +1,4 @@
-# Algorithms and Discrete Mathematics
+# Algorithms in Discrete Mathematics
 
 This repository contains small projects focused on various topics in algorithms and discrete mathematics. Each project addresses specific mathematical concepts and algorithms, providing implementations and analyses.
 
